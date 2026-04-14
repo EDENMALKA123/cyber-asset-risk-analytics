@@ -8,7 +8,7 @@ This repository presents the methodology and code for **job search**; it is not 
 
 A **read-only HTML export** of the analysis is in `docs/index.html`. View it in the browser (charts and narrative; no execution):
 
-**[Open interactive report →](https://EDENMALKA123.github.io/cyber-asset-risk-analytics/)**
+**[Open interactive report →](https://edenmalka123.github.io/cyber-asset-risk-analytics/)**
 
 If the link returns 404, enable **GitHub Pages** once: **Settings → Pages → Branch `main` / folder `/docs` → Save**, then wait a minute and refresh.
 
